@@ -13,10 +13,10 @@ Si navegas a la sección de "EDICIÓN ELECTRÓNICA" y luego a la sub-seccion de 
 
 Escribe un "seudo código" o describe la lógica que utilizarías para resolver las siguientes preguntas:
 
-a) Guardar en un arreglo TODOS los links de los archivos PDF que aparecen en el día de actual. Aquellos del tipo Ver PDF (CVE-157XXXX)
-b) Guardar SOLO los links PDF de las CONSTITUCIONES (Dejar fuera Modificaciones y Disoluciones) del día actual.
-c) Guardar en un arreglo TODOS los links de los archivos PDF de CONSTIUCIONES, MODIFICACIONES Y DISOLUCIONES del año 2018
-d) Guardar en un arreglo TODOS los links de los archivos PDF de CONSTIUCIONES, MODIFICACIONES Y DISOLUCIONES del año 2016
+..a) Guardar en un arreglo TODOS los links de los archivos PDF que aparecen en el día de actual. Aquellos del tipo Ver PDF (CVE-157XXXX)
+..b) Guardar SOLO los links PDF de las CONSTITUCIONES (Dejar fuera Modificaciones y Disoluciones) del día actual.
+..c) Guardar en un arreglo TODOS los links de los archivos PDF de CONSTIUCIONES, MODIFICACIONES Y DISOLUCIONES del año 2018
+..d) Guardar en un arreglo TODOS los links de los archivos PDF de CONSTIUCIONES, MODIFICACIONES Y DISOLUCIONES del año 2016
 
 ## Parte 2: OCR
 En la carpeta "parte-2" verás 5 archivos PDF con constituciones de sociedad. 
